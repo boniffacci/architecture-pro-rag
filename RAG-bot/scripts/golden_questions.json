@@ -1,0 +1,13 @@
+[
+  {"question": "What type is Jwqqay?", "expected": "electric, grass"},
+  {"question": "What abilities does Nlrlix have?", "expected": "Eodolj, Vptqst"},
+  {"question": "Name one move of Awxstn.", "expected": "Hgsiyw"},
+  {"question": "How much HP does Qkckpe have?", "expected": "60"},
+  {"question": "What type is Vgxpjx?", "expected": "psychic"},
+  {"question": "What is the speed of Zvmjhu?", "expected": "55"},
+  {"question": "Name one defense stat of Knujit.", "expected": "95"},
+  {"question": "What ability does Pikavhu have that is not in the database?", "expected": "Не знаю"},
+  {"question": "What ability does RrRR have if it is not in the database?", "expected": "Не знаю"},
+  {"question": "What move does the Dima use?", "expected": "Не знаю"},
+  {"question": "What is the best pokemon?", "expected": "Не знаю"}
+]

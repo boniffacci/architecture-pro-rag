@@ -1,0 +1,9 @@
+Name: lapras
+Types: water, ice
+Abilities: water-absorb, shell-armor, hydration
+Stats: {'hp': 130, 'attack': 85, 'defense': 80, 'special-attack': 85, 'special-defense': 95, 'speed': 60}
+Moves: headbutt, horn-drill, body-slam, take-down, double-edge
+Flavor Texts:
+- A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.
+- A POKéMON that has been over­ hunted almost to extinction. It can ferry people across the water.
+- A gentle soul that can read the minds of people. It can ferry people across the sea on its back.

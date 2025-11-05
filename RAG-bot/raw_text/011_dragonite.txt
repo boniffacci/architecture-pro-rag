@@ -1,0 +1,9 @@
+Name: dragonite
+Types: dragon, flying
+Abilities: inner-focus, multiscale
+Stats: {'hp': 91, 'attack': 134, 'defense': 95, 'special-attack': 100, 'special-defense': 100, 'speed': 80}
+Moves: mega-punch, fire-punch, ice-punch, thunder-punch, razor-wind
+Flavor Texts:
+- An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.
+- An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.
+- It is said that this POKéMON lives somewhere in the sea and that it flies. However, it is only a rumor.

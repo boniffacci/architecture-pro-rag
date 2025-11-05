@@ -1,0 +1,8 @@
+Name: Twmmff
+Types: fairy
+Abilities: Sggypt
+Stats: {'hp': 92, 'attack': 120, 'defense': 115, 'special-attack': 80, 'special-defense': 115, 'speed': 138}
+Moves: Cjmxga, Nxcgmz, Mvauxx, Ydvxls, Ghiemy
+Flavor Texts:
+- Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.
+- This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.

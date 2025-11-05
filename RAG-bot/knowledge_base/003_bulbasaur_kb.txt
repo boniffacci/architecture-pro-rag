@@ -1,0 +1,9 @@
+Name: Rbmzdi
+Types: grass, poison
+Abilities: Ahnklz, Tigdyr
+Stats: {'hp': 45, 'attack': 49, 'defense': 49, 'special-attack': 65, 'special-defense': 65, 'speed': 45}
+Moves: Ttfrzo, Cjmxga, Mfqhmr, Zwqjau, Dtlmxd
+Flavor Texts:
+- A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.
+- A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.
+- It can go for days without eating a single morsel. In the bulb on its back, it stores energy.

@@ -1,0 +1,9 @@
+Name: gardevoir
+Types: psychic, fairy
+Abilities: synchronize, trace, telepathy
+Stats: {'hp': 68, 'attack': 65, 'defense': 65, 'special-attack': 125, 'special-defense': 115, 'speed': 80}
+Moves: mega-punch, fire-punch, ice-punch, thunder-punch, mega-kick
+Flavor Texts:
+- GARDEVOIR has the ability to read the future. If it senses impending danger to its TRAINER, this POKéMON is said to unleash its psychokinetic energy at full power.
+- GARDEVOIR has the psychokinetic power to distort the dimensions and create a small black hole. This POKéMON will try to protect its TRAINER even at the risk of its own life.
+- It apparently does not feel the pull of gravity because it supports itself with psychic power. It will give its life to protect its TRAINER.

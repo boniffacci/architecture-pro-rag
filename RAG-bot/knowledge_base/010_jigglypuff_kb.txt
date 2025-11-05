@@ -1,0 +1,9 @@
+Name: Uknxqc
+Types: normal, fairy
+Abilities: Zpxqty, Zihxus, Kxpxtl
+Stats: {'hp': 115, 'attack': 45, 'defense': 20, 'special-attack': 45, 'special-defense': 25, 'speed': 20}
+Moves: Vchjsq, Emxtto, Hgsiyw, Bxysww, Wjfzul
+Flavor Texts:
+- When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.
+- When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.
+- Uses its alluring eyes to enrapture its foe. It then sings a pleasing melody that lulls the foe to sleep.

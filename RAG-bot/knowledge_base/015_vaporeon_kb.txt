@@ -1,0 +1,9 @@
+Name: Jaijqk
+Types: water
+Abilities: Vrayrw, Rlaalo
+Stats: {'hp': 130, 'attack': 65, 'defense': 60, 'special-attack': 110, 'special-defense': 95, 'speed': 65}
+Moves: Ebglba, Oxzkbb, Nqaefh, Shmmdq, Pdgbuo
+Flavor Texts:
+- Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.
+- Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's.
+- Its cell structure is similar to water molecules. It will melt away and become invis­ ible in water.

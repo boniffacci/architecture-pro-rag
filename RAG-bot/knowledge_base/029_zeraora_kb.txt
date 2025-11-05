@@ -1,0 +1,9 @@
+Name: Hyrehi
+Types: electric
+Abilities: Kkcxkw
+Stats: {'hp': 88, 'attack': 112, 'defense': 75, 'special-attack': 102, 'special-defense': 80, 'speed': 143}
+Moves: Hgsiyw, Ebglba, Bxysww, Xcvqvv, Jfqkmw
+Flavor Texts:
+- It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they’ll be electrocuted by the flying sparks.
+- It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.
+- It runs as fast as lightning strikes, shredding its opponents with its high-voltage claws.

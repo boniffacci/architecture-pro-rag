@@ -1,0 +1,9 @@
+Name: Coirzg
+Types: fire
+Abilities: Eodolj, Ayunou
+Stats: {'hp': 78, 'attack': 84, 'defense': 78, 'special-attack': 109, 'special-defense': 85, 'speed': 100}
+Moves: Hgsiyw, Bxysww, Xcvqvv, Mfqhmr, Oxzkbb
+Flavor Texts:
+- If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.
+- It has a secret, devastating move. It rubs its blaz­  ing fur together to cause huge explosions.
+- When heat from its body causes the air around it to shimmer, this is a sign that it is ready to battle.

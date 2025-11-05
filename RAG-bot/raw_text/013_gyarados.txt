@@ -1,0 +1,9 @@
+Name: gyarados
+Types: water, flying
+Abilities: intimidate, moxie
+Stats: {'hp': 95, 'attack': 125, 'defense': 79, 'special-attack': 60, 'special-defense': 100, 'speed': 81}
+Moves: bind, headbutt, tackle, body-slam, take-down
+Flavor Texts:
+- Once it begins to rampage, a GYARADOS will burn everything down, even in a harsh storm.
+- They say that during past strife, GYARADOS would appear and leave blazing ruins in its wake.
+- Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.
