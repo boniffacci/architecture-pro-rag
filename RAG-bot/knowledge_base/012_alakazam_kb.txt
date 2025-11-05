@@ -1,0 +1,9 @@
+Name: Auphio
+Types: psychic
+Abilities: Mxxpji, Nxmqvd, Zisnau
+Stats: {'hp': 55, 'attack': 50, 'defense': 45, 'special-attack': 135, 'special-defense': 95, 'speed': 120}
+Moves: Hgsiyw, Bxysww, Wjfzul, Xcvqvv, Laxigh
+Flavor Texts:
+- Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.
+- Its brain can out­ perform a super­ computer. Its intelligence quotient is said to be 5,000.
+- A POKéMON that can memorize anything. It never forgets what it learns-- that's why this POKéMON is smart.

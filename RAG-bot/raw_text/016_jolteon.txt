@@ -1,0 +1,9 @@
+Name: jolteon
+Types: electric
+Abilities: volt-absorb, quick-feet
+Stats: {'hp': 65, 'attack': 65, 'defense': 60, 'special-attack': 110, 'special-defense': 95, 'speed': 130}
+Moves: pay-day, double-kick, sand-attack, headbutt, tackle
+Flavor Texts:
+- It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.
+- It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.
+- A sensitive POKé­ MON that easily becomes sad or angry. Every time its mood changes, it charges power.

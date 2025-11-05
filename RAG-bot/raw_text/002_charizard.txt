@@ -1,0 +1,9 @@
+Name: charizard
+Types: fire, flying
+Abilities: blaze, solar-power
+Stats: {'hp': 78, 'attack': 84, 'defense': 78, 'special-attack': 109, 'special-defense': 85, 'speed': 100}
+Moves: mega-punch, fire-punch, thunder-punch, scratch, swords-dance
+Flavor Texts:
+- Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.
+- Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally.
+- When expelling a blast of super hot fire, the red flame at the tip of its tail burns more intensely.

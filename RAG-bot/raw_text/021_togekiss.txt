@@ -1,0 +1,9 @@
+Name: togekiss
+Types: fairy, flying
+Abilities: hustle, serene-grace, super-luck
+Stats: {'hp': 85, 'attack': 50, 'defense': 95, 'special-attack': 120, 'special-defense': 115, 'speed': 80}
+Moves: pound, mega-punch, fly, mega-kick, headbutt
+Flavor Texts:
+- It will never appear where there is strife. Its sightings have become rare recently.
+- It will never appear where there is strife. Its sightings have become rare recently.
+- It shares many blessings with people who respect one another’s rights and avoid needless strife.

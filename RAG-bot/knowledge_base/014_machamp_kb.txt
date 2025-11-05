@@ -1,0 +1,9 @@
+Name: Zvmjhu
+Types: fighting
+Abilities: Ugcvgd, Ebieer, Fdutjp
+Stats: {'hp': 90, 'attack': 130, 'defense': 80, 'special-attack': 65, 'special-defense': 85, 'speed': 55}
+Moves: Hhopdl, Hgsiyw, Bxysww, Wjfzul, Xcvqvv
+Flavor Texts:
+- Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.
+- Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.
+- One arm alone can move mountains. Using all four arms, this POKéMON fires off awesome punches.

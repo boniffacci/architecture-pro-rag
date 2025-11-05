@@ -1,0 +1,9 @@
+Name: Rcnvmo
+Types: dark
+Abilities: Mxxpji, Nxmqvd
+Stats: {'hp': 95, 'attack': 65, 'defense': 110, 'special-attack': 60, 'special-defense': 130, 'speed': 65}
+Moves: Ebglba, Mfqhmr, Nqaefh, Shmmdq, Pdgbuo
+Flavor Texts:
+- When agitated, this POKéMON pro­ tects itself by spraying poisonous sweat from its pores.
+- When darkness falls, the rings on the body begin to glow, striking fear in the hearts of anyone nearby.
+- On the night of a full moon, or when it gets excited, the ring patterns on its body glow yellow.

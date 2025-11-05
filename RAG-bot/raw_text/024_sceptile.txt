@@ -1,0 +1,9 @@
+Name: sceptile
+Types: grass
+Abilities: overgrow, unburden
+Stats: {'hp': 70, 'attack': 85, 'defense': 65, 'special-attack': 105, 'special-defense': 85, 'speed': 120}
+Moves: pound, mega-punch, thunder-punch, swords-dance, cut
+Flavor Texts:
+- The leaves growing on SCEPTILE’s body are very sharp edged. This POKéMON is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind.
+- SCEPTILE has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This POKéMON raises the trees in a forest with loving care.
+- In the jungle, its power is without equal. This POKéMON carefully grows trees and plants. It regulates its body temperature by basking in sunlight.

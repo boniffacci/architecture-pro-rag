@@ -1,0 +1,7 @@
+Name: Gosha123
+Types: YandexPracticum
+Abilities: Code
+Stats: {'hp': 1, 'attack': 1, 'defense': 1, 'special-attack': 1, 'special-defense': 1, 'speed': 1}
+Moves: typecode
+Flavor Texts:
+- It's not pokemon.

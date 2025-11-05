@@ -1,0 +1,9 @@
+Name: flareon
+Types: fire
+Abilities: flash-fire, guts
+Stats: {'hp': 65, 'attack': 130, 'defense': 60, 'special-attack': 95, 'special-defense': 110, 'speed': 65}
+Moves: pay-day, double-kick, sand-attack, headbutt, tackle
+Flavor Texts:
+- When storing thermal energy in its body, its temperature could soar to over 1600 degrees.
+- When storing thermal energy in its body, its temperature could soar to over 1600 degrees.
+- It has a flame chamber inside its body. It inhales, then blows out fire that is over 3,000F degrees.

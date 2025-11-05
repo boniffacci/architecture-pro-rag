@@ -1,0 +1,9 @@
+Name: mewtwo
+Types: psychic
+Abilities: pressure, unnerve
+Stats: {'hp': 106, 'attack': 110, 'defense': 90, 'special-attack': 154, 'special-defense': 90, 'speed': 130}
+Moves: mega-punch, pay-day, fire-punch, ice-punch, thunder-punch
+Flavor Texts:
+- It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.
+- It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.
+- Its DNA is almost the same as MEW's. However, its size and disposition are vastly dif­ ferent.

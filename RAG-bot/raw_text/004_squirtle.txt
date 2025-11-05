@@ -1,0 +1,9 @@
+Name: squirtle
+Types: water
+Abilities: torrent, rain-dish
+Stats: {'hp': 44, 'attack': 48, 'defense': 65, 'special-attack': 50, 'special-defense': 64, 'speed': 43}
+Moves: mega-punch, ice-punch, mega-kick, headbutt, tackle
+Flavor Texts:
+- After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.
+- After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.
+- Shoots water at prey while in the water. Withdraws into its shell when in danger.

@@ -1,0 +1,9 @@
+Name: Pqhnzz
+Types: normal
+Abilities: Cmxyot, Vmmfpz, Cebaes
+Stats: {'hp': 55, 'attack': 55, 'defense': 50, 'special-attack': 45, 'special-defense': 65, 'speed': 55}
+Moves: Ebglba, Oxzkbb, Nqaefh, Shmmdq, Pdgbuo
+Flavor Texts:
+- Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.
+- Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.
+- Its genetic code is unstable, so it could evolve in a variety of ways. There are only a few alive.

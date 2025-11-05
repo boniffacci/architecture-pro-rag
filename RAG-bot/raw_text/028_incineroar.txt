@@ -1,0 +1,9 @@
+Name: incineroar
+Types: fire, dark
+Abilities: blaze, intimidate
+Stats: {'hp': 95, 'attack': 115, 'defense': 90, 'special-attack': 80, 'special-defense': 90, 'speed': 60}
+Moves: mega-punch, pay-day, fire-punch, thunder-punch, scratch
+Flavor Texts:
+- This Pokémon has a violent, selfish disposition. If it’s not in the mood to listen, it will ignore its Trainer’s orders with complete nonchalance.
+- After hurling ferocious punches and flinging furious kicks, it finishes opponents off by spewing fire from around its navel.
+- Although it’s rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents.

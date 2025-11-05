@@ -1,0 +1,18 @@
+2025-11-05 15:50:41,376 [INFO] Use pytorch device_name: mps
+2025-11-05 15:50:41,376 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 15:50:47,511 [INFO] === Start index update ===
+2025-11-05 15:50:47,790 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 15:50:48,107 [INFO] Index updated successfully. Added 32 new files, updated 0 changed files, total 32 chunks. Duration: 0.6s
+2025-11-05 15:51:07,213 [INFO] Use pytorch device_name: mps
+2025-11-05 15:51:07,213 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 15:51:12,538 [INFO] === Start index update ===
+2025-11-05 15:51:12,542 [INFO] No new or modified files. Index is up to date.
+2025-11-05 15:51:28,565 [INFO] Use pytorch device_name: mps
+2025-11-05 15:51:28,565 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 15:51:35,035 [INFO] === Start index update ===
+2025-11-05 15:51:35,041 [INFO] No new or modified files. Index is up to date.
+2025-11-05 15:51:40,352 [INFO] Use pytorch device_name: mps
+2025-11-05 15:51:40,352 [INFO] Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2025-11-05 15:51:45,903 [INFO] === Start index update ===
+2025-11-05 15:51:46,191 [INFO] Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-05 15:51:46,482 [INFO] Index updated successfully. Added 0 new files, updated 1 changed files, total 1 chunks. Duration: 0.58s

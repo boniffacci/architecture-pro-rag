@@ -1,0 +1,9 @@
+Name: scyther
+Types: bug, flying
+Abilities: swarm, technician, steadfast
+Stats: {'hp': 70, 'attack': 110, 'defense': 80, 'special-attack': 55, 'special-defense': 80, 'speed': 105}
+Moves: razor-wind, swords-dance, cut, wing-attack, headbutt
+Flavor Texts:
+- With ninja-like agility and speed, it can create the illusion that there is more than one.
+- With ninja-like agility and speed, it can create the illusion that there is more than one.
+- Leaps out of tall grass and slices prey with its scythes. The move­ ment looks like that of a ninja.
